@@ -1,0 +1,1 @@
+This project is a Inventory Management Java Application.
